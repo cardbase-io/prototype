@@ -12,3 +12,4 @@ This prototype added a new layer to Google's material design system, to create f
     - Add your data under sample data/ w new folders (consider merging)
     - Define your primary and secondary colors in baseline.sketch
     - Create your ...sketch file, and Copy cardbaseio.sketch and paste it
+    - Change data w/ your sample data
