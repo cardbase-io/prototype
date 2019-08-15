@@ -1,9 +1,0 @@
-Parrotize colors
-
-F4364C red      FD492E
-
-FBC70D yellow   FFD304 FEC701
-
-1A92BB blue     278EE1  0CABFF 0C88FF
-
-17AA45 
