@@ -2,6 +2,12 @@
 
 This prototype added a new layer to Google's material design system, to create faster prototypes for **platfom ideas**
 
+- Install Sketch
+- Install SkyFonts
+   - Then, Create an account on fonts.com,
+   - And, link accounts on SkyFonts
+   - And Download Roboto fonts
+
 ## How To Start
 
 1. Fork this rep. into your organization's rep.
