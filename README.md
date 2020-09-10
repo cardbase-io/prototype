@@ -7,6 +7,9 @@ This prototype added a new layer to Google's material design system, to create f
 1. Fork this rep. into your organization's rep.
 2. Master branch should be enough for this rep. 
 3. baseline.sketch is google material design system. This file can be updated either from cardbaseio rep. or google
+    - Add this file as _library_ into Sketch
+    - Create a new sketch (File/New)
+    - Add as _Symbols_ for Baseline components
 4. cardbaseio.sketch is created from baseline.sketch. If baseline.sketch changes, it effects the cardbaseio.sketch. **Use this files skeleton to create rapid prototype**
 5. Create your own prototype
     - Add your data under sample data/ w new folders (consider merging)
